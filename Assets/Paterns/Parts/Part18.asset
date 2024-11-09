@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7eec49e45989f47999f500b9817fc3, type: 3}
+  m_Name: Part18
+  m_EditorClassIdentifier: 
+  isQuiz: 0
+  quizPatterns: []
+  quizVariants: []
+  dialogText:
+  - 
+  - "\u041C\u0430\u043A\u0441 \u0441 \u0443\u0434\u0438\u0432\u043B\u0435\u043D\u0438\u0435\u043C
+    \u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u043B \u043D\u0430 \u0434\u0435\u0432\u043E\u0447\u043A\u0443"
+  - .
+  names: []
+  mainBackGround: {fileID: 21300000, guid: f47df765cd757184a8a1cd4611b5e57a, type: 3}
+  mainPerson: {fileID: 0}
+  mainPersonSecond: {fileID: 0}
+  dialogPerson: {fileID: 0}
+  firstPerson: {fileID: 0}
+  secondPerson: {fileID: 0}
+  endBackGround: {fileID: 0}
+  SmoothTransition: 0
+  NewSceneNewPerson: 0
+  mainBackGroundBiger: 0
+  isBrush: 0
+  isMaksChpok: 0
+  isManagerIncident: 0
+  ScaleSpeed: 0
+  Scale: {x: 0, y: 0, z: 0}
+  isAlinaGoHome: 0
+  maksVAhue: 1
+  nextPattern: {fileID: 11400000, guid: 3ee0ba57962ae6f45bee2eeb92eca9b0, type: 2}
